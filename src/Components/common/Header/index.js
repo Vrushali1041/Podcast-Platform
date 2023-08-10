@@ -25,9 +25,6 @@ function Header() {
 
 export default Header;
 
-  // "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
-    // "homepage": "https://Vrushali1041.github.io/Podcast-Platform",
 
 
 
